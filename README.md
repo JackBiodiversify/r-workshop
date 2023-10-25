@@ -1,2 +1,2 @@
 # r-workshop
-Example task from R For Excel.
+This repo is for my analyses at RStudio::conf(2020). 
